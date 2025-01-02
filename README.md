@@ -1,4 +1,4 @@
-# Proyecto: Series Calculator
+# Proyecto: Sngular
 
 Este proyecto implementa una calculadora de una serie matemática definida por la fórmula:
 
