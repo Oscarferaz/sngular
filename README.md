@@ -2,7 +2,7 @@
 
 Este proyecto implementa una calculadora de una serie matemática definida por la fórmula:
 
-primo(n + 3 ) \*  triangular(n - 1) / fibonacci(n - 2));
+primo(n + 3 ) \*  triangular(n - 1) / fibonacci(n - 2);
 
 Además, incluye pruebas unitarias para validar su funcionamiento.
 
@@ -12,7 +12,7 @@ Asegúrate de tener instalados los siguientes programas:
 
 - [Node.js](https://nodejs.org/) (v18 o superior)
 - npm (incluido con Node.js)
-- Git
+- [Git](https://git-scm.com/)
 
 ## Instrucciones para clonar el proyecto
 
@@ -44,8 +44,6 @@ npm install
    ```bash
    npm run dev
    ```
-
-3. El servidor estará disponible en `http://localhost:3000` (o en el puerto configurado).
 
 ## Correr las pruebas
 
