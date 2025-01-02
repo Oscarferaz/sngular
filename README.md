@@ -2,7 +2,7 @@
 
 Este proyecto implementa una calculadora de una serie matemática definida por la fórmula:
 
-\[ \text{serie}(n) = \frac{primo(n+3) \cdot triangular(n-1)}{fibonacci(n-2)} \]
+primo(n + 3 ) \*  triangular(n - 1) / fibonacci(n - 2));
 
 Además, incluye pruebas unitarias para validar su funcionamiento.
 
@@ -19,13 +19,13 @@ Asegúrate de tener instalados los siguientes programas:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Oscarferaz/sngular.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd nombre-del-proyecto
+   cd sngular
    ```
 
 ## Instalación de dependencias
@@ -54,5 +54,3 @@ Ejecuta las pruebas unitarias con el siguiente comando:
 ```bash
 npm test
 ```
-
-
